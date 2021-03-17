@@ -1,6 +1,6 @@
 # Para entender este repositório, siga as etapas abaixo:
 
-1) Primeiro clone, bifurque ou baixe este repositório ou você pode executar k-meanspratica.ipynb no Google Colab.
+1) Primeiro clone, bifurque ou baixe este repositório ou você pode executar os arquivos com extensão .ipynb no Google Colab.
 
 2) O conjunto de dados usado são números aleatórios.
 
