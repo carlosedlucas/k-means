@@ -24,9 +24,9 @@
 # Alguns detalhes importantes
 
  Como escolher o número de clusters?<br/>
-  #H2 – Within Cluster Sum of Squares (WCSS).<br/>
+– Within Cluster Sum of Squares (WCSS).<br/>
  Como calcular a distância entre os dados?<br/>
-  – Distância euclidiana, distância de Manhattan.<br/>
+– Distância euclidiana, distância de Manhattan.<br/>
  Qual é a condição de parada ideal?<br/>
-  – Número de iterações, estabilidade dos clusters.<br/>
+– Número de iterações, estabilidade dos clusters.<br/>
  Atenção à inicialização dos centroides.
