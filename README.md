@@ -1,3 +1,18 @@
+# Para entender este repositório, siga as etapas abaixo:
+
+1) Primeiro clone, bifurque ou baixe este repositório ou você pode executar k-meanspratica.ipynb no Google Colab.
+
+2) O conjunto de dados usado são números aleatórios.
+
+3) Agora, você pode executar o arquivo k-meanspratica.ipynb localmente ou online.
+
+4) Usei bibliotecas Scikit Learn inbuild de agrupamento K-Means.
+
+5) Todos, os usos e instruções são escritos no próprio arquivo de código.
+
+Nota - Para qualquer sugestão ou recomendação, você pode me enviar uma solicitação de pull.
+
+
 # O que é o K-Means?
 
 * K-Means é um algoritmo de Machine Learning baseado em aprendizado não supervisionado.<br/>
@@ -30,3 +45,4 @@
 * Qual é a condição de parada ideal?<br/>
 – Número de iterações, estabilidade dos clusters.<br/>
 * Atenção à inicialização dos centroides.
+
