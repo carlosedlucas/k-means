@@ -7,26 +7,26 @@
 
 # Possíveis Aplicações
 
- Agrupamento de clientes/usuários similares.
- Segmentação de mercado.
- Agrupamento de produtos semelhantes.
- Agrupamento de usuários em redes sociais.
- Agrupamento de notícias, documentos.
- Agrupamento de pacientes para identificar situações de risco.
+ Agrupamento de clientes/usuários similares.<br/>
+ Segmentação de mercado.<br/>
+ Agrupamento de produtos semelhantes.<br/>
+ Agrupamento de usuários em redes sociais.<br/>
+ Agrupamento de notícias, documentos.<br/>
+ Agrupamento de pacientes para identificar situações de risco.<br/>
  E diversas outras aplicações...
 
 # Passo a passo
 
-1. Inicializar os centroides aleatoriamente (precisamos saber o valor de k antes de começar);
-2. Para cada ponto, calcular a distância para cada centroide e associar ao que estiver mais próximo;
+1. Inicializar os centroides aleatoriamente (precisamos saber o valor de k antes de começar);<br/>
+2. Para cada ponto, calcular a distância para cada centroide e associar ao que estiver mais próximo;<br/>
 3. Calcular a média de todos os pontos relacionados a um centroide e definir um novo centroide.
 
 # Alguns detalhes importantes
 
- Como escolher o número de clusters?
-– Within Cluster Sum of Squares (WCSS).
- Como calcular a distância entre os dados?
-– Distância euclidiana, distância de Manhattan.
- Qual é a condição de parada ideal?
-– Número de iterações, estabilidade dos clusters.
+ Como escolher o número de clusters?<br/>
+– Within Cluster Sum of Squares (WCSS).<br/>
+ Como calcular a distância entre os dados?<br/>
+– Distância euclidiana, distância de Manhattan.<br/>
+ Qual é a condição de parada ideal?<br/>
+– Número de iterações, estabilidade dos clusters.<br/>
  Atenção à inicialização dos centroides.
