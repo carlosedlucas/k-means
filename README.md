@@ -10,7 +10,7 @@
 
 5) Todos, os usos e instruções são escritos no próprio arquivo de código.
 
-Nota - Para qualquer sugestão ou recomendação, você pode me enviar uma solicitação pull request.
+Nota - Para qualquer sugestão ou recomendação, você pode me enviar uma pull request.
 
 
 # O que é o K-Means?
