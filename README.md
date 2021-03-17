@@ -6,9 +6,7 @@
 
 3) Agora, você pode executar o arquivo k-meanspratica.ipynb localmente ou online.
 
-4) Usei bibliotecas Scikit Learn inbuild de agrupamento K-Means.
-
-5) Todos, os usos e instruções são escritos no próprio arquivo de código.
+4) Todos, os usos e instruções são escritos no próprio arquivo de código.
 
 Nota - Para qualquer sugestão ou recomendação, você pode me enviar uma pull request.
 
