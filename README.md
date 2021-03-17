@@ -1,19 +1,19 @@
 # O que é o K-Means?
 
- K-Means é um algoritmo de Machine Learning baseado em aprendizado não supervisionado.<br/>
- O objetivo é encontrar similaridades entre os dados e agrupá-los conforme o número de clusters (K).<br/>
- O algoritmo, de forma iterativa, atribui os pontos de dados ao grupo que representa a menor distância.<br/>
- O algoritmo gera K (ou menos) clusters.
+* K-Means é um algoritmo de Machine Learning baseado em aprendizado não supervisionado.<br/>
+* O objetivo é encontrar similaridades entre os dados e agrupá-los conforme o número de clusters (K).<br/>
+* O algoritmo, de forma iterativa, atribui os pontos de dados ao grupo que representa a menor distância.<br/>
+* O algoritmo gera K (ou menos) clusters.
 
 # Possíveis Aplicações
 
- Agrupamento de clientes/usuários similares.<br/>
- Segmentação de mercado.<br/>
- Agrupamento de produtos semelhantes.<br/>
- Agrupamento de usuários em redes sociais.<br/>
- Agrupamento de notícias, documentos.<br/>
- Agrupamento de pacientes para identificar situações de risco.<br/>
- E diversas outras aplicações...
+* Agrupamento de clientes/usuários similares.<br/>
+* Segmentação de mercado.<br/>
+* Agrupamento de produtos semelhantes.<br/>
+* Agrupamento de usuários em redes sociais.<br/>
+* Agrupamento de notícias, documentos.<br/>
+* Agrupamento de pacientes para identificar situações de risco.<br/>
+* E diversas outras aplicações...
 
 # Passo a passo
 
